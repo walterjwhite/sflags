@@ -1,4 +1,4 @@
-module github.com/octago/sflags
+module github.com/walterjwhite/sflags
 
 require (
 	github.com/alecthomas/kingpin v2.2.6+incompatible
